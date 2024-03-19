@@ -2,9 +2,9 @@
 - 👀 I’m interested in Graduation  
 - 🌱 I’m currently learning Hacking        
 - 💞️ I’m looking to collaborate on Professor
-- 📫 How to reach me ...
+- 📫 How to reach me DM
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Cadet
 
 <!---
 hooni814/hooni814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
